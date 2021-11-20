@@ -1,0 +1,12 @@
+Arrays
+    -> "fixed" size collection of "similar" object type
+
+Slices
+    -> dynamic size (like vectors)
+
+Map
+    -> key-value (dynamic)
+
+Struct
+    -> like a class (although we dont have class concept in go)
+    -> we have a fixed number of field that have different data type and represent similar concept
